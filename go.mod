@@ -1,4 +1,4 @@
-module github.com/ethereum/go-verkle
+module github.com/LumoraProject/go-verkle
 
 go 1.22
 
